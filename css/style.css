@@ -61,4 +61,5 @@ img {
 }
 body {
   background-image: url("images/white-wood.jpg");
+  background-size: 50px, 130px, auto;
 }
